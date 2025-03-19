@@ -1,0 +1,9 @@
+# Ignorer les fichiers Python compilés
+__pycache__/
+
+# Ignorer le répertoire des environnements virtuels
+.venv
+
+# Ignorer certaines extensions de fichiers
+*.obj
+*.exe
